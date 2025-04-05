@@ -28,13 +28,6 @@ Passionate about turning complex robotics problems into real-world autonomy solu
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/mjay9482)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/mr98719/)
 
-## 📊 GitHub Contributions Overview
+## 🗓️ Yearly GitHub Contributions Heatmap
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjay9482&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mjay9482&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjay9482&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mjay9482&theme=github-dark&area=true)
