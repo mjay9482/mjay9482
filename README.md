@@ -23,3 +23,15 @@ Passionate about turning complex robotics problems into real-world autonomy solu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mrityunjay-upadhyay-b0837b176/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mr98719@gmail.com)
 
+## 💻 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/mjay9482)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/mr98719/)
+
+## 🧭 Contributions Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mjay9482&theme=github_dark&utcOffset=5.5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjay9482&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjay9482&theme=github_dark">
+</p>
