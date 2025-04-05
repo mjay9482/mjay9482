@@ -1,6 +1,10 @@
 # Hi, I'm Mrityunjay 👋
 
-🚀 Robotics Researcher | 🤖 Marine Autonomy | 🧠 Deep Learning Fan
+About Me
+I'm a Research Scholar at IIT Madras, working at the intersection of perception, motion planning, and control to build intelligent autonomous systems.
+Passionate about turning complex robotics problems into real-world autonomy solutions 🚀
+
+🛥️ Path Planning | 🎯 Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
 
 ### 🛠️ Tools & Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -11,3 +15,9 @@
 ![Mrityunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjay9482&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjay9482&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mrityunjay-upadhyay-b0837b176/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:mr98719@gmail.com)
+
