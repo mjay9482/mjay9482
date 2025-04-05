@@ -28,28 +28,34 @@ Passionate about turning complex robotics problems into real-world autonomy solu
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/mjay9482)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/mr98719/)
 
-### 📈 Activity Radar
+### 📈 Activity Overview
 
 <p align="center">
-  <img 
+  <img
     src="https://quickchart.io/chart?c={
       type:'radar',
       data:{
-        labels:['Commits','Pull Requests','Issues','Code Reviews'],
+        labels:['Commits','Pull Requests','Issues','Code Reviews'],
         datasets:[{
           label:'2025 Activity',
-          data:[120, 35, 50, 25],
+          data:[120,35,50,25],
           backgroundColor:'rgba(54,162,235,0.2)',
           borderColor:'rgba(54,162,235,1)',
           pointBackgroundColor:'rgba(54,162,235,1)'
         }]
       },
       options:{
-        scale:{
-          ticks:{beginAtZero:true}
+        scales:{
+          r:{
+            beginAtZero:true,
+            max:150
+          }
+        },
+        plugins:{
+          legend:{position:'top'}
         }
       }
-    }&w=500&h=400" 
-    alt="GitHub Activity Radar Chart"
+    }&w=500&h=400"
+    alt="GitHub Activity Overview"
   />
 </p>
