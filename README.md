@@ -28,37 +28,6 @@ Passionate about turning complex robotics problems into real-world autonomy solu
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/mjay9482)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&style=flat-square)](https://auth.geeksforgeeks.org/user/mr98719/)
 
-### 📈 Activity Overview
-
-<p align="center">
-  <img
-    src="https://quickchart.io/chart?c={
-      type:'radar',
-      data:{
-        labels:['Commits','Pull Requests','Issues','Code Reviews'],
-        datasets:[{
-          label:'2025 Activity',
-          data:[120,35,50,25],
-          backgroundColor:'rgba(54,162,235,0.2)',
-          borderColor:'rgba(54,162,235,1)',
-          pointBackgroundColor:'rgba(54,162,235,1)'
-        }]
-      },
-      options:{
-        scales:{
-          r:{
-            beginAtZero:true,
-            max:150
-          }
-        },
-        plugins:{
-          legend:{position:'top'}
-        }
-      }
-    }&w=500&h=400"
-    alt="GitHub Activity Overview"
-  />
-</p>
 ### 🧭 Contribution Radar
 
-<img src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27Commits%27%2C%27Pull%20Requests%27%2C%27Issues%27%2C%27Code%20Reviews%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27This%20Month%27%2C%0A%20%20%20%20%20%20data%3A%5B120%2C45%2C30%2C20%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba(54%2C162%2C235%2C0.2)%27%2C%0A%20%20%20%20%20%20borderColor%3A%27rgba(54%2C162%2C235%2C1)%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27rgba(54%2C162%2C235%2C1)%27%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20ticks%3A%7BbeginAtZero%3Atrue%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20elements%3A%7Bline%3A%7Btension%3A0.1%7D%7D%0A%20%20%7D%0A%7D&width=500&height=400" width="500" />
+![Contribution Radar](https://quickchart.io/chart?c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Commits%22%2C%20%22Pull%20Requests%22%2C%20%22Issues%22%2C%20%22Code%20Reviews%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22This%20Month%22%2C%20%22data%22%3A%20%5B120%2C%2045%2C%2030%2C%2020%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2854%2C162%2C235%2C0.2%29%22%2C%20%22borderColor%22%3A%20%22rgba%2854%2C162%2C235%2C1%29%22%2C%20%22pointBackgroundColor%22%3A%20%22rgba%2854%2C162%2C235%2C1%29%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22beginAtZero%22%3A%20true%7D%7D%2C%20%22elements%22%3A%20%7B%22line%22%3A%20%7B%22tension%22%3A%200.1%7D%7D%7D%7D&width=500&height=400)
