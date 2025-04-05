@@ -4,7 +4,7 @@
 I’m a Researcher at IIT Madras working on AI and classical methods in perception, motion planning, and controls to build intelligent, real-world autonomous systems.
 Passionate about turning complex robotics problems into real-world autonomy solutions 🚀
 
-🛥️ Path Planning | 🎯 Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
+🛥️ Path Planning | 🎯 Navigation & Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
 
 ### 🛠️ Tools & Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
