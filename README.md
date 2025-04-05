@@ -1,7 +1,7 @@
 # Hi, I'm Mrityunjay 👋
 
 ### About Me
-I'm a Research Scholar at IIT Madras, working at the intersection of perception, motion planning, and control to build intelligent autonomous systems.
+I’m a Researcher at IIT Madras working on AI and classical methods in perception, motion planning, and controls to build intelligent, real-world autonomous systems.
 Passionate about turning complex robotics problems into real-world autonomy solutions 🚀
 
 🛥️ Path Planning | 🎯 Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
