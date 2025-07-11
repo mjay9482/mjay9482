@@ -1,10 +1,9 @@
 # Hi, I'm Mrityunjay 👋
 
 ### About Me
-I’m a Researcher at IIT Madras working on AI and classical methods in perception, motion planning, and controls to build intelligent, real-world autonomous systems.
-Passionate about turning complex robotics problems into real-world autonomy solutions 🚀
+Currently working as a Senior Robotics Engineer at HealtCare Technology Innovation Centre, IIT Madras Research Park, previously I was working as a Robotics Researcher at IIT Madras working on Statistical Analysis of AI and classical methods in perception, motion planning, and controls to bridge the gap between virtual and real-world autonomous systems. 🚀
 
-🛥️ Path Planning | 🎯 Navigation & Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
+🛥️ Motion Planning | 🎯 Navigation & Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
 
 ### 🛠️ Tools & Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
