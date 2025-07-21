@@ -1,7 +1,7 @@
 # Hi, I'm Mrityunjay 👋
 
 ### About Me
-Currently working as a Senior Robotics Engineer at HealtCare Technology Innovation Centre, IIT Madras Research Park, previously I was working as a Robotics Researcher at IIT Madras working on Statistical Analysis of AI and classical methods in perception, motion planning, and controls to bridge the gap between virtual and real-world autonomous systems. 🚀
+Currently working as a Senior Robotics Engineer at HealtCare Technology Innovation Centre, IIT Madras Research Park, working on Physical AI to bridge the gap between virtual and real-world autonomous systems. 🚀
 
 🛥️ Motion Planning | 🎯 Navigation & Control Systems | 👁️‍🗨️ Perception | 🤖 Robotics
 
