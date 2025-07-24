@@ -7,10 +7,11 @@ Currently working as a Senior Robotics Engineer at HealtCare Technology Innovati
 
 ### 🛠️ Tools & Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C/C++](https://img.shields.io/badge/-C/C++-5C3EE8?style=flat&logo=C/C++&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-5C3EE8?style=flat&logo=C/C++&logoColor=blue)
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-5C3EE8?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-5C3EE8?style=flat&logo=docker&logoColor=black)
 
 ### 📊 GitHub Stats
 
